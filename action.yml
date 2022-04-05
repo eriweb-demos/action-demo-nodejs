@@ -1,0 +1,5 @@
+name: 'Nodejs Demo'
+description: 'Demo action demonstrating nodejs'
+runs:
+  using: 'node16'
+  main: 'src/index.js'

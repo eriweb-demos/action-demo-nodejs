@@ -1,0 +1,12 @@
+{
+  "name": "action-demo-nodejs",
+  "version": "1.0.0",
+  "description": "nodejs based demo action",
+  "main": "src/index.js",
+  "repository": "git@github.com:eriweb-demos/action-demo-nodejs.git",
+  "author": "Erik Weber <erik.weber@norsk-tipping.no>",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.6.0"
+  }
+}
